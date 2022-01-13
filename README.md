@@ -1,1 +1,1 @@
-# test_slides
+# git-intro-slides
